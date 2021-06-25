@@ -1,7 +1,7 @@
 # Let Me Ask
 
 <p align="center">
-  <img src="/demo/let_me_ask.gif" />
+  <img src="/demo/let-me-ask.gif" />
 </p>
 
 
