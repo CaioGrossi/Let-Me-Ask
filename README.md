@@ -30,8 +30,8 @@ para executar o projeto.
 ## Diferenciais
 * Utitlizado styled componentes para estilização;
 * Criação de componentes de modal para exluir perguntas (Modal, DeleteQuestionModal);
-* Criaçaõ de componente de carregamento (Spinenr) para uma melhor experiência do usuário;
-* Melhoria do componente Button para maior utilização na aplicação;
+* Criaçaõ de componente de carregamento (Spinener) para uma melhor experiência do usuário;
+* Melhoria do componente Button para maior flexibilidade;
 * Criação de componente IconButton para melhor reaproveitamento de funcionalidades e genericiddade;
 * Criação de componente PageHeader e UseInfo para melhor reaproveitamento de HTML/CSS;
 * Adicição da biblioteca Toastify para notificaçaõ do usuário;
