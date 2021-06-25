@@ -1,6 +1,6 @@
 # Let Me Ask
 
-Projeto feito durante a sexta Next Level Week promovida pela Rocketseat. O projeto tem como objetivo a criação de salar de perguntas e respotas em real time. Foi possivel explorar as funcionalidade do React desde componentização até criação de hoks customizados para compartilhamento de funcionalidades. Foi utilizado o firebase e o realtime databse para atualizações em tempo real e autenticação.
+Projeto feito durante a sexta Next Level Week promovida pela Rocketseat. O projeto tem como objetivo a criação de salas de perguntas e respotas em tempo real. Foi possível explorar as funcionalidade do React desde componentização até criação de hoks customizados para compartilhamento de funcionalidades. Foi utilizado o firebase e o realtime databse para atualizações em tempo real e autenticação.
 
 <p align="center">
   <img src="/demo/let-me-ask.gif" />
